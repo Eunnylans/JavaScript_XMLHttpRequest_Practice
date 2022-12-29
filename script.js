@@ -32,5 +32,6 @@ const getCountryData = function (country) {
 
 getCountryData('nigeria');
 getCountryData('portugal');
-getCountryData('usa');
+getCountryData('ghana');
+// getCountryData('usa');
 getCountryData('germany');
